@@ -10,5 +10,5 @@
 ##### generates sample data 
 
 ```
-usage - python3 data_gen.py [sample size] [filename.csv]
+usage - python3 data_gen_compiled.pyc [sample size] [filename.csv]
 ```
